@@ -1,4 +1,4 @@
-Uso de NumPy y Pandas con Clases Personalizadas en Python
+# Uso de NumPy y Pandas con Clases Personalizadas en Python
 
 Este proyecto muestra cómo trabajar con **NumPy** y **pandas** en Python y cómo encapsular estas herramientas en tus propias clases para organizar mejor tu código y reutilizarlo de manera efectiva.
 
@@ -20,7 +20,7 @@ arr = np.array([1, 2, 3, 4])
 print(arr * 2)  # Operación vectorizada
 ```
 
-# Pandas
+## Pandas
 
 pandas permite trabajar con datos tabulares de manera sencilla usando DataFrames y Series. Sus ventajas incluyen:
 
@@ -42,7 +42,7 @@ adultos = df[df['Edad'] > 25]
 print(adultos)
 ```
 
-# Clases Personalizadas
+## Clases Personalizadas
 
 Puedes encapsular la funcionalidad de NumPy y pandas en clases propias. Esto ayuda a:
 
@@ -68,7 +68,7 @@ class MiDataFrame:
     def mostrar(self):
         print(self.df)
 ```
-# Uso
+## Uso
 ```python
 datos = {'Nombre': ['Ana', 'Luis', 'Carlos'], 'Edad': [23, 30, 27]}
 mi_df = MiDataFrame(datos)
@@ -77,7 +77,7 @@ mi_df.mostrar()
 print(mi_df.filtrar_por_columna('Edad', 30))
 ```
 
-# Ejemplo con NumPy:
+## Ejemplo con NumPy:
 ```python
 class MiArray:
     def __init__(self, lista):
@@ -90,14 +90,14 @@ class MiArray:
         return self.array * valor
 ```
 
-# Uso
+## Uso
 ```python
 arr = MiArray([1, 2, 3, 4])
 print(arr.sumar(5))
 print(arr.multiplicar(10))
 ```
 
-# Ejemplo de Uso Completo
+## Ejemplo de Uso Completo
 ```python
 # Crear DataFrame
 datos = {'Nombre': ['Ana', 'Luis', 'Carlos'], 'Edad': [23, 30, 27]}
@@ -111,4 +111,5 @@ mi_array = MiArray(adultos['Edad'].values)
 print(mi_array.multiplicar(2))
 
 ```
+
 
