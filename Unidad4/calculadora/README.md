@@ -21,6 +21,7 @@ El proyecto incluye **tests unitarios con `pytest`** para garantizar su correcto
 
 ## Estructura del proyecto
 
+```text
 ├── 📂 src/
 │   └── 📂 paquete/
 │       ├── 📄 __init__.py
@@ -117,4 +118,5 @@ def test_error_operador_invalido():
     calc.introducir_operador('%')
 
     assert calc.valor_actual() == '- Error -'
+
 
