@@ -1,4 +1,4 @@
-# Proyecto: Uso de NumPy y Pandas con Clases en Python
+Uso de NumPy y Pandas con Clases Personalizadas en Python
 
 Este proyecto muestra cómo trabajar con **NumPy** y **pandas** en Python y cómo encapsular estas herramientas en tus propias clases para organizar mejor tu código y reutilizarlo de manera efectiva.
 
@@ -111,3 +111,4 @@ mi_array = MiArray(adultos['Edad'].values)
 print(mi_array.multiplicar(2))
 
 ```
+
