@@ -1,16 +1,53 @@
-# Curso de Programación Aplicada (Python)
+# 🐍 Curso de Programación Aplicada (Python)
 
-Este curso está diseñado para profundizar en **la programación orientada a objetos (POO) en Python** como enfoque central para el diseño y desarrollo de software. A lo largo del curso, los estudiantes aprenderán a construir soluciones modulares, reutilizables y mantenibles, aplicando principios de POO como **encapsulamiento, abstracción y polimorfismo**.
+Este curso está diseñado para profundizar en **la programación orientada a objetos (POO) en Python** como enfoque central para el diseño y desarrollo de software.  
 
-El curso aborda la evolución de los paradigmas de programación, desde enfoques estructurados hasta modelos orientados a objetos, mostrando cómo esta metodología mejora la organización y claridad del código. Se enfatiza la creación de clases, objetos y estructuras personalizadas, así como la correcta gestión de su ciclo de vida mediante constructores, destructores y métodos especiales.
+A lo largo del curso, los estudiantes aprenderán a construir soluciones **modulares, reutilizables y mantenibles**, aplicando principios de POO como:  
+- 🔒 **Encapsulamiento**  
+- 🎭 **Polimorfismo**  
+- 🧩 **Abstracción**  
 
-Además, se integran conceptos de POO con librerías de Ciencia de Datos como **NumPy** y **Pandas**, destacando cómo estas herramientas utilizan objetos para manejar datos de manera eficiente y flexible. Los estudiantes desarrollarán estructuras propias que se integren con estas librerías, fortaleciendo su capacidad para realizar análisis y modelado de datos de manera profesional.
+---
 
-El curso también promueve buenas prácticas de desarrollo, incluyendo la **organización de proyectos**, documentación clara mediante **PEP 8** y docstrings, estilo de código consistente y pruebas unitarias con **pytest**. El objetivo es que los participantes adquieran competencias para crear software confiable, mantenible y listo para entornos profesionales.
+## 📚 Contenidos principales
 
-**Requisitos:** conocimientos básicos de Python y programación estructurada.  
+- **Evolución de paradigmas de programación**: de estructurado a orientado a objetos.  
+- **Clases y objetos**: creación y gestión del ciclo de vida con constructores, destructores y métodos especiales.  
+- **Integración con librerías de Ciencia de Datos**:  
+  - 🔹 **NumPy**: estructuras y operaciones avanzadas.  
+  - 🔹 **Pandas**: manipulación eficiente de datos con objetos.  
+- **Buenas prácticas de desarrollo**:  
+  - 📝 Documentación clara (PEP 8 y docstrings)  
+  - 🧪 Pruebas unitarias con **pytest**  
+  - 📁 Organización profesional de proyectos  
 
-**Tecnologías y herramientas utilizadas:** Python 3.x, NumPy, Pandas, Pytest.  
+---
 
-Este curso está orientado a estudiantes y profesionales que desean fortalecer sus habilidades en desarrollo de software con Python, integrando conceptos de programación avanzada y buenas prácticas profesionales.
+## ⚙️ Tecnologías y herramientas
+
+- **Python 3.x**  
+- **NumPy**  
+- **Pandas**  
+- **Pytest**  
+
+---
+
+## 🎯 Objetivo del curso
+
+Que los participantes adquieran competencias para crear **software confiable, mantenible y listo para entornos profesionales**, aplicando principios de POO y buenas prácticas de desarrollo.
+
+---
+
+## ✅ Requisitos
+
+- Conocimientos básicos de Python  
+- Experiencia en **programación estructurada**  
+
+---
+
+## 👨‍💻 Público objetivo
+
+Estudiantes y profesionales que desean **fortalecer sus habilidades en desarrollo de software con Python**, integrando conceptos de programación avanzada y buenas prácticas profesionales.
+
+
 
