@@ -1,4 +1,4 @@
-# Curso de Programación Orientada a Objetos en Python
+# Curso de Programación Aplicada (Python)
 
 Este curso está diseñado para profundizar en **la programación orientada a objetos (POO) en Python** como enfoque central para el diseño y desarrollo de software. A lo largo del curso, los estudiantes aprenderán a construir soluciones modulares, reutilizables y mantenibles, aplicando principios de POO como **encapsulamiento, abstracción y polimorfismo**.
 
@@ -13,3 +13,4 @@ El curso también promueve buenas prácticas de desarrollo, incluyendo la **orga
 **Tecnologías y herramientas utilizadas:** Python 3.x, NumPy, Pandas, Pytest.  
 
 Este curso está orientado a estudiantes y profesionales que desean fortalecer sus habilidades en desarrollo de software con Python, integrando conceptos de programación avanzada y buenas prácticas profesionales.
+
