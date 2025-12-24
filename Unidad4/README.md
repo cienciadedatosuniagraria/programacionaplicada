@@ -21,15 +21,14 @@ El proyecto incluye **tests unitarios con `pytest`** para garantizar su correcto
 
 ## Estructura del proyecto
 ```text
-calculadora/
-├── src/
-│ └── paquete/
-│ 	├── init.py
-│ 	└── modulo.py
-├── tests/
-│ └── test_calculadora.py
-├── README.md
-└── requirements.txt
+├── 📂 src/
+│   └── 📂 paquete/
+│       ├── 📄 __init__.py
+│       └── 📄 modulo.py
+├── 📂 tests/
+│   └── 📄 test_calculadora.py
+├── 📄 README.md
+└── 📄 requirements.txt
 ```
 
 - `src/paquete/modulo.py` → Contiene la clase `Calculadora` y todos los estados.
@@ -117,3 +116,4 @@ def test_error_operador_invalido():
     calc.introducir_operador('%')
 
     assert calc.valor_actual() == '- Error -'
+
