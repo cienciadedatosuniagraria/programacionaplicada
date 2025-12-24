@@ -115,4 +115,5 @@ def test_error_operador_invalido():
     calc = Calculadora()
     calc.introducir_digito(2)
     calc.introducir_operador('%')
+
     assert calc.valor_actual() == '- Error -'
