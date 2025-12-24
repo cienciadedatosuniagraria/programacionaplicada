@@ -97,7 +97,7 @@ print(arr.sumar(5))
 print(arr.multiplicar(10))
 ```
 
-#Ejemplo de Uso Completo
+# Ejemplo de Uso Completo
 ```python
 # Crear DataFrame
 datos = {'Nombre': ['Ana', 'Luis', 'Carlos'], 'Edad': [23, 30, 27]}
@@ -109,4 +109,5 @@ adultos = mi_df.filtrar_por_columna('Edad', 30)
 # Convertir a NumPy array y multiplicar
 mi_array = MiArray(adultos['Edad'].values)
 print(mi_array.multiplicar(2))
+
 ```
